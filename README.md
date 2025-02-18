@@ -38,7 +38,7 @@ The database consists of multiple tables:
 - **Filtering** (`WHERE`, `HAVING`)
 - **Grouping** (`GROUP BY`)
 - **Sorting** (`ORDER BY`,`Limit`)
-- - **Common Table Expressions (CTEs)** (`WITH ... AS`)
+- **Common Table Expressions (CTEs)** (`WITH ... AS`)
 - **Indexes** (`CREATE INDEX`)
 - **Performance Optimization** (Query execution plans, indexing strategies)
 
